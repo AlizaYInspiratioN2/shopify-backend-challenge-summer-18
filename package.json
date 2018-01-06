@@ -1,0 +1,14 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "shopify summer 18 backend challenge",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
